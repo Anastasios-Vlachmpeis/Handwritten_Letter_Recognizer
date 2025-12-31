@@ -1,0 +1,8 @@
+pip-installable libraries used for this project
+
+tensorflow
+numpy
+pillow
+pytest
+extra-keras-datasets
+tensorflow-datasets
