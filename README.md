@@ -1,5 +1,5 @@
 # Handwritten Letter Recognizer
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://youtu.be/mNVWhtkifcY)>
 #### Description:
 The Handwritten Letter Recognizer is an interactive desktop application, that can identify handwritten letters from A to Z.\
 It provides the user a digital canvas to draw a letter. After the user draws a letter and presses the "Predict" button,\
